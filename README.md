@@ -19,5 +19,5 @@ Ruby ~> 2.3.0
 * API setup to come
 
 Contributers
-- FInGrayson
+- FinGrayson
 - Jefferson-Faseler
